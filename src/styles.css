@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: var(--body-text-color);
+    background-color:rgb(235, 194, 207) !important;
+}
+
+.contact-img{
+    width: 140px;
+    height: 130px;
+    border-radius: 50%;
+   
+}
+.contact-img-big{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.conatiner{
+    padding-left: 8.5%;
+    
+}

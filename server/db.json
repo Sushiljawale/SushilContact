@@ -1,0 +1,96 @@
+{
+  "contacts": [
+    {
+      "id": "spkdf",
+      "name": "The_SJ",
+      "email": "thesj10@gmail.com",
+      "photo": "https://media.licdn.com/dms/image/C5603AQHcdP_AluLkeg/profile-displayphoto-shrink_800_800/0/1644586771959?e=2147483647&v=beta&t=rGuGF4fkO2U1wEgy4b28xldlThB-lwkXClZ2Ju1P_7w",
+      "mobile": 9021952634,
+      "company": "The_SJ",
+      "title": "Student",
+      "groupId": 4
+    },
+    {
+      "id": "kspjh",
+      "name": "Josephine Langford",
+      "email": "langford01@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4fAqQ8HsMse0qCsD0Z9IdssBvRRHaKmkC44zcMGZThi6uc5zK5VBJMHZxR8Q5Qq3aY0&usqp=CAU",
+      "mobile": 203145698,
+      "company": "Movie",
+      "title": "Actress",
+      "groupId": 2
+    },
+    {
+      "id": "sdkj",
+      "name": "Chris Even",
+      "email": "chriseven60@gmail.com",
+      "photo": "https://e1.pngegg.com/pngimages/181/12/png-clipart-chris-evans-thumbnail.png",
+      "mobile": 8808080808,
+      "company": "Marvel",
+      "title": "Actor",
+      "groupId": 1
+    },
+    {
+      "name": "Sushil Ashok Jawale",
+      "email": "jawalesushil70@gmail.com",
+      "mobile": 921458990,
+      "company": "HCL",
+      "title": "Software Engineer",
+      "groupId": "5",
+      "photo": "https://media.licdn.com/dms/image/C4D03AQEkLCr0GtDuww/profile-displayphoto-shrink_800_800/0/1603786218745?e=2147483647&v=beta&t=IkgLHqbM4aC_TIOfAZsDnxk7vIYtM0eXSgiADE3EeYE",
+      "id": "IhLzoH0"
+    },
+    {
+      "name": "Chris Hamsworth",
+      "photo": "https://i.pinimg.com/originals/90/9c/44/909c4439b79a68b9c29ccf416220667b.png",
+      "email": "hamswoth20@gmail.com",
+      "mobile": 6032569874,
+      "company": "Marvel",
+      "title": "Thor",
+      "groupId": "1",
+      "id": "7BeQLFg"
+    },
+    {
+      "name": "katharine Langford",
+      "photo": "https://rare-gallery.com/uploads/posts/179881-katherine-langford-2000x1327.jpg",
+      "email": "katharine70@gamil.com",
+      "mobile": 906355554,
+      "company": "Austrelia",
+      "title": "Actress",
+      "groupId": "2",
+      "id": "chArIRJ"
+    },
+    {
+      "name": "Akshay Aute",
+      "email": "akshayaute@gmail.com",
+      "mobile": 7499448041,
+      "company": "GDTC",
+      "title": "Software Engineer",
+      "groupId": "2",
+      "photo": "https://media.licdn.com/dms/image/D5635AQG_OR1ArGvx5w/profile-framedphoto-shrink_800_800/0/1660909918681?e=1682776800&v=beta&t=lYrZKJ3XNME4udfctfFABHvSqv_cJXaqa-hUi89ZKnk",
+      "id": "9cr1VZq"
+    }
+  ],
+  "groups": [
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    },
+    {
+      "id": "5",
+      "name": "Service"
+    }
+  ]
+}
