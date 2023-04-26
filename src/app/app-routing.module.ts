@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { ContactManagerComponent } from './components/contact-manager/contact-manager.component';
 import { AddContactComponent } from './components/add-contact/add-contact.component';
